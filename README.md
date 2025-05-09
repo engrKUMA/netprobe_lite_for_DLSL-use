@@ -30,7 +30,7 @@ To run Netprobe, you'll need a PC running Docker connected directly to your ISP 
 1. Clone the repo locally to the probe machine:
 
 ```
-git clone https://github.com/plaintextpackets/netprobe_lite.git
+git clone https://github.com/engrKUMA/netprobe_lite_for_DLSL-use.git
 ```
 
 2. From the cloned folder, use docker compose to launch the app:
